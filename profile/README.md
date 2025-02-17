@@ -5,7 +5,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Swarmeta--AI-%23FFD21F.svg?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Swarmeta-AI)
 [![GitHub](https://img.shields.io/badge/GitHub-Swarmeta--ai-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Swarmeta-ai)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Swarmeta--AI-%23607dfa.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjNjA3REZBIiBkPSJNMDAwbDI1MDI1MDAtMjUweiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMzMuMSA3Ni44bC0yMi4yIDIyLjItMTMuNC0xMy40LTM1LjQgMzUuNCAxMy40IDEzLjQgMjIuMi0yMi4yIDIyLjIgMjIuMiAxMy40LTEzLjQgMzUuNCAzNS40LTEzLjQtMTMuNC0yMi4yLTIyLjItMjIuMi0yMi4yLTEzLjQgMTMuNC0zNS40LTM1LjR6Ii8+PC9zdmc+)](https://modelscope.cn/organization/Swarmeta_AI)
-
+[![Afdian](https://img.shields.io/badge/爱发电-Swarmeta--AI-%23FFD400.svg?style=flat&logo=afdian&logoColor=black)](https://afdian.com/a/swarmeta)
 ## ✨ Our Vision
 
 We do not just stay in theoretical research, but also **focus on the practical application value of artificial intelligence technology**. Our vision is:
